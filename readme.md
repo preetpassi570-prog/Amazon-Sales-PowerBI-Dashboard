@@ -43,17 +43,17 @@ Focuses on buyer demographics and Amazon prime/regular customer purchasing behav
 
 ## 📸 Screenshots
 
-**Executive View**  
-![Executive Dashboard](screenshots/Excutive%20Dashboard.png)
+**Executive View**
+![Executive Dashboard](Screenshots/Excutive%20Dashboard.png)
 
-**Map View**  
-![Map Dashboard](screenshots/Map%20Dashboard.png)
+**Map View**
+![Map Dashboard](Screenshots/Map%20Dashboard.png)
 
-**Product View**  
-![Product Dashboard](screenshots/Product%20Dashboard.png)
+**Product View**
+![Product Dashboard](Screenshots/Product%20Dashboard.png)
 
-**Customer View**  
-![Customer Dashboard](screenshots/Customer%20Dashboard.png)
+**Customer View**
+![Customer Dashboard](Screenshots/Customer%20Dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
 
